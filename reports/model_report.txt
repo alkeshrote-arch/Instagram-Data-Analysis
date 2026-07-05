@@ -1,0 +1,96 @@
+# Instagram Data Analysis Report
+
+Prepared By: Alkesh Rote
+Internship: Data Science Internship
+Tools Used: Python, Google Colab, Pandas, NumPy, Matplotlib, GitHub
+
+---
+
+## Project Objective
+
+The objective of this project is to analyze Instagram user data to identify engagement patterns, user activity, hashtag usage, Instagram filters, and content trends. The insights generated from this analysis can help improve social media marketing strategies and audience engagement.
+
+---
+
+## Dataset Overview
+
+The dataset contains multiple CSV files representing different Instagram activities, including users, photos, likes, comments, hashtags, tagged photos, and follower relationships. These datasets provide valuable information for understanding user interactions and content performance.
+
+---
+
+## Tools & Technologies
+
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- GitHub
+
+---
+
+## Data Preprocessing
+
+- Loaded all CSV files into Pandas DataFrames.
+- Checked dataset dimensions.
+- Verified data types.
+- Checked for missing values.
+- Confirmed that all datasets were complete with no missing values.
+
+---
+
+## Exploratory Data Analysis
+
+Exploratory Data Analysis (EDA) was performed to understand user activity, content distribution, hashtag usage, Instagram filters, and engagement patterns. Several visualizations were created to identify important trends within the dataset.
+
+---
+
+## Visualizations
+
+1. Top 10 Most Active Users
+2. Top Instagram Filters Used
+3. Most Used Hashtags
+4. Photo Type Distribution
+
+---
+
+## Key Findings
+
+- The dataset contains no missing values.
+- A small number of users contribute a large portion of the content.
+- Some Instagram filters are used much more frequently than others.
+- Trending hashtags are commonly used to increase post visibility.
+- Photo posts represent the majority of uploaded content.
+
+---
+
+## Business Recommendations
+
+- Maintain a consistent posting schedule.
+- Use popular hashtags to improve content reach.
+- Apply trending Instagram filters for better visual appeal.
+- Focus on content types that receive higher engagement.
+- Monitor user engagement regularly to optimize future content.
+
+---
+
+## Conclusion
+
+This project demonstrates how Exploratory Data Analysis can be used to understand Instagram user behavior and engagement. The insights obtained from the analysis can help businesses create more effective social media strategies and improve audience interaction.
+
+---
+
+## Future Scope
+
+- Build an engagement prediction model using Machine Learning.
+- Analyze posting time for maximum engagement.
+- Create an interactive dashboard using Power BI or Tableau.
+- Perform sentiment analysis on comments.
+
+---
+
+##Author
+
+Alkesh Rote
+
+Data Science Intern
